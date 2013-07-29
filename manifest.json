@@ -1,0 +1,11 @@
+{
+  "manifest_version": 2,
+
+  "name": "Color palet",
+  "description": "This extension helps you change temporarily the colors of a web page",
+  "version": "0.1",
+  "browser_action": {
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+    }
+}
